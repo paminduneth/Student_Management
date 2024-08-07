@@ -1,4 +1,5 @@
 Student Management System
+![image](https://github.com/user-attachments/assets/1dfbaab4-0ec3-4268-b4b2-947d2bb2a7d7)
 
 Description
 
