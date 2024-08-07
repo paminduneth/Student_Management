@@ -1,0 +1,31 @@
+/* App.css */
+
+/* Dashboard Card styling */
+.card {
+  border: none;
+  margin-bottom: 20px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-title {
+  font-size: 1.25rem;
+}
+
+.card-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* List styling */
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-group-item button {
+  margin-left: 10px;
+}

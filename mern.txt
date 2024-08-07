@@ -1,0 +1,4 @@
+whk678567
+pamindu
+
+mongodb+srv://pamindu:<password>@mern0.kvmiter.mongodb.net/?retryWrites=true&w=majority&appName=MERN0
